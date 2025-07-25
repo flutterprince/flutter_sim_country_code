@@ -22,15 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e608c7c9-ff68-4293-8991-3504de28214e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    <list default="true" id="e608c7c9-ff68-4293-8991-3504de28214e" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +52,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SHELLCHECK.PATH": "I do mind",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
@@ -82,6 +77,23 @@
       <option name="presentableId" value="Default" />
       <updated>1554986218137</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1753443168336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753443168336</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1753443173518</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753443173518</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,46 +107,19 @@
       </map>
     </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617041111718">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.813@0.25.1440.813" timestamp="1617041111718" />
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1617042214777">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1617042214777" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1617042214776">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1617042214776" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1617042214776">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1617042214776" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1617042214777">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1617042214777" />
-    <state width="1398" height="207" key="GridCell.Tab.1.bottom" timestamp="1617042214779">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.1.bottom/0.25.1440.813@0.25.1440.813" timestamp="1617042214779" />
-    <state width="1398" height="207" key="GridCell.Tab.1.center" timestamp="1617042214778">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.1.center/0.25.1440.813@0.25.1440.813" timestamp="1617042214778" />
-    <state width="1398" height="207" key="GridCell.Tab.1.left" timestamp="1617042214777">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.1.left/0.25.1440.813@0.25.1440.813" timestamp="1617042214777" />
-    <state width="1398" height="207" key="GridCell.Tab.1.right" timestamp="1617042214778">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state width="1398" height="207" key="GridCell.Tab.1.right/0.25.1440.813@0.25.1440.813" timestamp="1617042214778" />
-    <state x="221" y="67" key="SettingsEditor" timestamp="1617041109433">
-      <screen x="0" y="25" width="1440" height="813" />
-    </state>
-    <state x="221" y="67" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1617041109433" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/android/src/main/java/com/example/flutter_sim_country_code/FlutterSimCountryCodePlugin.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
